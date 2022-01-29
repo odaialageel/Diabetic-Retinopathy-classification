@@ -1,8 +1,8 @@
 # Retino Graduation Project
 Graduation project for bachelor degree in the field of computer engineering at king Saud university
 ### Students: : </br>
- Khaled Aldamkh </br>
  Odai Alageel </br>
+ Khaled Aldamkh </br>
  Mohammed Almansour </br>
 
 
